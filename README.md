@@ -2,7 +2,7 @@
 A simple React app that uses the Unsplash API to display images that matches the search term
 
 ## How to Use
-* In the CLI, run "npm run dev". The main page will be located on "localhost:3000"
+* In the CLI, run "npm run start". The main page will be located on "localhost:3000" or a similar available port.
 * Enter the image serach term in the box and hit Enter to display the Unsplash images
 
 ## Things I Learned
