@@ -1,6 +1,16 @@
 # ReactBasics-PicsAPI
 A simple React app that uses the Unsplash API to display images that matches the search term
 
+## What Does It Do
+* Displays a basic simulation of a social media page that shows posts of images that are randomly generated
+
+## Why I Built It
+* To learn the basic structure of a React page that pulls data from an API and displays it on the page
+
+
+https://github.com/jetsetnofuture/ReactBasics-PicsAPI/assets/102395901/321d8b7a-1766-4d2c-ada8-aa61a734aa02
+
+
 ## How to Use
 * In the CLI, run "npm run start". The main page will be located on "localhost:3000" or a similar available port.
 * Enter the image serach term in the box and hit Enter to display the Unsplash images
