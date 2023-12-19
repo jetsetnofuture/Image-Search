@@ -1,12 +1,16 @@
 # ReactBasics-PicsAPI
-A simple React app that uses the Unsplash API to display images that matches the search term
 
 ## What Does It Do
-* Displays a basic simulation of a social media page that shows posts of images that are randomly generated
+A simple React app that uses the Unsplash API to display images that matches the search term
 
 ## Why I Built It
 * To learn the basic structure of a React page that pulls data from an API and displays it on the page
 
+## Tech Used
+* React
+* Redux
+* Redux Toolkit Query
+* Node
 
 https://github.com/jetsetnofuture/ReactBasics-PicsAPI/assets/102395901/321d8b7a-1766-4d2c-ada8-aa61a734aa02
 
