@@ -1,4 +1,4 @@
-# ReactBasics-PicsAPI
+# Image Search App
 
 ## What Does It Do
 A simple React app that uses the Unsplash API to display images that matches the search term
