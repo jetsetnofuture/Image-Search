@@ -17,7 +17,7 @@ Image Search is a React app that uses the Unsplash API to display images that ma
 * In the CLI, run "npm run start". The main page will be located on "localhost:3000"
 * Enter the image search term in the box and hit Enter to display the Unsplash images
 
-## To-Do List
+## Upcoming Features
 - [ ] Style the current components to improve the overall UI
 - [ ] Add a "Search" button to go along with the Enter key
 - [ ] Add more informational UI elements like the number of images found
