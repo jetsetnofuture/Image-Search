@@ -1,23 +1,21 @@
-# Image Search App
+# Image Search
 
 ## What Does It Do
-A simple React app that uses the Unsplash API to display images that matches the search term
+Image Search is a React app that uses the Unsplash API to display images that match the search term
 
-## Why I Built It
+## Motivation
 * To learn the basic structure of a React page that pulls data from an API and displays it on the page
 
-## Tech Used
+## Stack
 * React
+  * Using state and component-based development to make the correct images appear upon search
+  * Refactoring the functionality of the api calls and search calls into separate components
 * Node
+  * Using the Unsplash API to grab images that match the search term 
 
 ## How to Use
-* In the CLI, run "npm run start". The main page will be located on "localhost:3000" or a similar available port.
-* Enter the image serach term in the box and hit Enter to display the Unsplash images
-
-## Things I Learned
-* Using an API with a React based project (the Unsplash API to grab images based on the search term)
-* Using the basics of state and component-based development to make the correct images appear upon search
-* Refactoring code to separate functionality (such as the api call and search call) into separate components
+* In the CLI, run "npm run start". The main page will be located on "localhost:3000"
+* Enter the image search term in the box and hit Enter to display the Unsplash images
 
 ## To-Do List
 - [ ] Style the current components to improve the overall UI
